@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Acerca
 permalink: /about/
 ---
 
-Some information about you!
+Soy un estudiante de física y programación. Me dedico a dar clases particulares de lo que aprendo.
+En mis tiempos libres aprendo nuevas cosas en base a diferentes proyectos (mayormente desarrollo web)
 
-### More Information
+### Mas Información
 
-A place to include any other types of information that you'd like to include about yourself.
+Seguime en twitter [@fernandopaz111](https://twitter.com/fernandopaz111)
+Seguime en Linkedin [@ferpaz](https://www.linkedin.com/in/ferpaz/)
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[ferpaz9292@gmail.com](mailto:ferpaz9292@gmail.com)
